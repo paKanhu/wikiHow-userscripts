@@ -2,3 +2,9 @@
 
 This shows all category pages in text view mode in wikiHow for all language
 sites.
+
+For quick picture view mode of a category page, while you are in the text mode
+of that page, without disabling this script, remove `&viewMode=text` from the
+URL e.g. change the URL
+`http://www.wikihow.com/index.php?title=Category:wikiHow&viewMode=text` to
+`http://www.wikihow.com/index.php?title=Category:wikiHow`.
